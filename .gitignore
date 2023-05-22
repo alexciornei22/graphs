@@ -29,3 +29,4 @@ bin/
 .DS_Store
 
 date.in
+date.out
