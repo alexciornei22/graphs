@@ -1,3 +1,7 @@
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -44,8 +48,9 @@ public class Cycle {
         return true;
     }
 
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+    public static void main(String[] args) throws IOException {
+        File input = new File("date.in");
+        Scanner scanner = new Scanner(input);
         int vertices = scanner.nextInt();
         int edges = scanner.nextInt();
 
@@ -58,9 +63,13 @@ public class Cycle {
         }
 
         boolean result = isAcyclic(g);
+        FileWriter writer = new FileWriter("date.out");
         if (result)
-            System.out.println("nu are ciclu");
+            writer.write("0");
         else
-            System.out.println("are ciclu");
+            writer.write("1");
+
+        scanner.close();
+        writer.close();
     }
 }

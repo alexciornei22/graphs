@@ -57,6 +57,8 @@ public class ShortestPathSmallRange {
             }
             writer.write(distance + " ");
         }
+
+        scanner.close();
         writer.close();
     }
 }

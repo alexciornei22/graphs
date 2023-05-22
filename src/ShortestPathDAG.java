@@ -48,6 +48,8 @@ public class ShortestPathDAG {
             }
             writer.write(distance + " ");
         }
+
+        scanner.close();
         writer.close();
     }
 }
