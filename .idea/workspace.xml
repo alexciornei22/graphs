@@ -5,38 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d8807b3-ed73-4019-a0e7-7a9ef6f36af4" name="Changes" comment="initialize project, check if directed graph is acyclic">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pa-tema2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vertex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test1.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test10.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test10.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test2.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test2.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test3.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test3.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test4.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test4.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test5.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test5.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test6.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test6.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test7.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test7.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test8.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test8.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test9.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pb1_tests/test9.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,19 +38,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\UPB\PA\tests" />
+      <recent name="D:\UPB\PA" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -91,11 +67,23 @@
       <updated>1684655212409</updated>
       <workItem from="1684655213688" duration="1785000" />
       <workItem from="1684678734826" duration="3449000" />
+      <workItem from="1684743188144" duration="4052000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialize project, check if directed graph is acyclic" />
